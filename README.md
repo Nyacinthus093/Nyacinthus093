@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Nyacinthus
+
+- 🎓 A sophomore student @ [USTC](https://www.ustc.edu.cn/) · Microelectronics
+- 🔭 Preferred language: C/C++, Python, TypeScript
+- 📅 Recently working on 107 contest
+
 <!--
 **Nyacinthus093/Nyacinthus093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
